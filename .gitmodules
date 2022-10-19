@@ -1,0 +1,3 @@
+[submodule "ApacheDome"]
+	path = ApacheDome
+	url = git@github.com:DataDome/ApacheDome.git
